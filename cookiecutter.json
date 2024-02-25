@@ -1,0 +1,4 @@
+{
+    "project_slug": "project_name",
+    "ml_task": ["classification", "timeseries"]
+}
